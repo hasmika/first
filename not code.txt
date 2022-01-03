@@ -1,2 +1,4 @@
 this is the first file for git, but it is not a code)(
 This is my first change on github, I am going to "pull" on git bash to see this change there as well.
+
+New lines for git gui&
